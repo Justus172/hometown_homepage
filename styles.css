@@ -1,0 +1,77 @@
+
+
+#hero {
+    background-image: url("gräfenhainichen.jpeg");
+    background-size: cover;
+    height: 100%;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: darkbrown; 
+    
+}
+
+h1 {
+    background-color: #D4C0AB;
+    border: 3px solid #D4C0AB;
+    margin: 100px 550px; 
+}
+
+h2 {
+    background-color: #C5CACE;
+    border: 3px solid #C5CACE;
+    margin: 0px 500px 100px 500px; 
+}
+#body{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: darkbrown;
+    background-color: #F1ECE2;
+}
+
+.examples  {   
+    border-radius: 100px;
+    width: 150px;
+    height: 150px;
+}
+
+#activities {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin:10px;
+}
+
+#cycling, #festival, #handball {
+    margin: 0px 70px; 
+}
+
+#guide {
+    border-radius: 10px;
+    background-color: #EFC581;
+    text-align: center;
+    color: darkbrown;
+    margin: 20px 500px;
+    display: flex;
+    flex-direction: space-around;
+    padding: 20px;
+    border-bottom: 6px solid #947647;
+
+}
+#section-title {
+    text-decoration: underline;
+}
+#personal-info {
+    padding: 10px; 
+}
+
+#own-words {
+    font-style: italic;
+}
+
+#me {
+    width: 200px;
+    height: 200px;
+}
