@@ -23,6 +23,10 @@ h2 {
     border: 3px solid #C5CACE;
     margin: 0px 500px 100px 500px; 
 }
+
+h3 { 
+    font-size: larger;
+}
 #body{
     display: flex;
     flex-direction: column;
